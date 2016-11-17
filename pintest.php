@@ -3,7 +3,7 @@ require_once "Pinterest.class.php";
 
 //use this link : https://gist.github.com/iwek/7549309
 //http://stackoverflow.com/questions/24194892/how-to-obtain-pinterest-v3-api-key-or-access-token
-https://github.com/seregazhuk/php-pinterest-bot#installation
+//https://github.com/seregazhuk/php-pinterest-bot#installation
 // Create the pinterest object and log in
 $p = new Pinterest();
 $p->login("hason61vn@gmail.com", "060854775");
